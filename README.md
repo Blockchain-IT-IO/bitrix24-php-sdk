@@ -46,11 +46,11 @@ $obB24User = new \Bitrix24\User\User($obB24App);
 $arCurrentB24User = $obB24User->current();
 ```
 ## Installation ##
-Add `"mesilov/bitrix24-php-sdk": "dev-master"` to `composer.json` of your application. Or clone repo to your project.
+Add `"blockchain-it-io/bitrix24-php-sdk": "dev-master"` to `composer.json` of your application. Or clone repo to your project.
 
 ## Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [GitHub](https://github.com/mesilov/bitrix24-php-sdk/issues)
+Bugs and feature request are tracked on [GitHub](https://github.com/blockchain-it-io/bitrix24-php-sdk/issues)
 
 ## License
 
